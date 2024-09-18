@@ -33,7 +33,7 @@ This is a Laravel project for managing products.
 ---
 
 
-## project Functiinality Overview
+## Project Functionality Overview
 This project demonstrates how to handle product-related actions such as purchases and new product creations using Laravel's **Events**, **Listeners**. When a product is purchased , events are triggered to update product quantities and  send email notifications when prodcut is  added. Emails are sent asynchronously using **Jobs** to ensure a smooth user experience without delays.
 
 ---
